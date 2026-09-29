@@ -1,0 +1,18 @@
+{
+  "name": "SavingsVault Tracker",
+  "short_name": "SavingsVault",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f9",
+  "theme_color": "#059669",
+  "orientation": "portrait",
+  "description": "Your personal companion for building wealth and target milestones.",
+  "icons": [
+  
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
